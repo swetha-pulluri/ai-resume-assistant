@@ -20,4 +20,4 @@ Add Generative AI projects
 
 ## Output Screenshot
 
-![Terminal Output](output.png)
+![Terminal Output](output_screenshot.png)
