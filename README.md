@@ -1,4 +1,4 @@
-# AI Resume Assistant using Prompt Engineering
+# AI Resume Assistant using Generative AI & Prompt Engineering
 
 This project demonstrates how Generative AI prompts can be used to analyze resumes and suggest improvements.
 
