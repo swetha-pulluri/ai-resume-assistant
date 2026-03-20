@@ -1,0 +1,13 @@
+Prompt 1:
+You are an expert resume reviewer.
+Analyze the following resume and provide:
+1. Strengths
+2. Weak areas
+3. Suggested improvements
+4. Better bullet point wording
+
+Prompt 2:
+Summarize this resume in 3 professional lines.
+
+Prompt 3:
+Suggest skills missing in this resume for an AI role.

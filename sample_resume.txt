@@ -1,0 +1,4 @@
+Name: Swetha
+Skills: Python, Machine Learning, Data Analysis
+Project: Diabetes Prediction
+Internship: Data Science Intern

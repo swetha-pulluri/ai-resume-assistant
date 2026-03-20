@@ -1,0 +1,13 @@
+AI Resume Analysis Output
+
+Strengths:
+- Good knowledge of Python and Machine Learning
+- Relevant internship experience
+
+Weak Areas:
+- Limited Generative AI project exposure
+- Resume bullet points can be improved
+
+Suggested Improvements:
+- Add AI/LLM based projects
+- Improve action verbs in project descriptions
